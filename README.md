@@ -32,6 +32,5 @@ Each framework brings its own set of strengths to the table, catering to diverse
 
 
 
-Each framework brings its own set of strengths to the table, catering to diverse project requirements and developer preferences. Whether you prioritize performance, ease of learning, or ecosystem maturity, there's a backend framework tailored to your needs.
 
 
